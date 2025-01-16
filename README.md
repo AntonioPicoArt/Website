@@ -17,4 +17,4 @@ In the gallery section add paintings by using:
 </div>
 ```
 
-** I have added your email at the bottom of the website **
+**I have added your email at the bottom of the website**
